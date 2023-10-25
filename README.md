@@ -21,26 +21,26 @@ Description: This README.md file provides an overview of the Phone Book Manageme
 ## Installation
 1. **Clone the repository**:
 
-  git clone https://github.com/nirmitkotadiya/phone-book-management.git
+    git clone https://github.com/nirmitkotadiya/Phone-Book-Management-System.git
 
-  cd phone-book-management
+    cd Phone-Book-Management-System
 
 2. **Create a virtual environment (optional but recommended)**:
 
-  python -m venv venv
+    python -m venv venv
 
-  source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+    source venv/bin/activate        # On Windows, use: venv\Scripts\activate
 
 3. **Install required packages**:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
 ## Usage
 
 1. Run the program by executing the following command:
 
-  python phone_book.py
+    python PhoneBook.py
 
 2. Follow the on-screen menu to create, view, search, or delete contacts.
 
