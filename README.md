@@ -24,12 +24,12 @@ git clone https://github.com/nirmitkotadiya/phone-book-management.git
 
 cd phone-book-management
 
-3. **Create a virtual environment (optional but recommended)**:
+2. **Create a virtual environment (optional but recommended)**:
 python -m venv venv
 
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 
-5. **Install required packages**:
+3. **Install required packages**:
 pip install -r requirements.txt
 
 
