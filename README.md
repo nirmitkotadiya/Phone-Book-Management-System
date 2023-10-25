@@ -19,27 +19,23 @@ Description: This README.md file provides an overview of the Phone Book Manageme
 
 
 ## Installation
-- ** Clone the repository **:
-<br>
+1. **Clone the repository**:
 git clone https://github.com/nirmitkotadiya/phone-book-management.git
 <br>
 cd phone-book-management
 
-2. - ** Create a virtual environment (optional but recommended) **:
-<br>
+2. **Create a virtual environment (optional but recommended)**:
 python -m venv venv
 <br>
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 
-3. ** Install required packages **:
-<br>
+3. **Install required packages**:
 pip install -r requirements.txt
 
 
 ## Usage
 
 1. Run the program by executing the following command:
-<br>
 python phone_book.py
 
 2. Follow the on-screen menu to create, view, search, or delete contacts.
@@ -49,9 +45,9 @@ python phone_book.py
 
 ## File Structure
 
-- ** PhoneBook.py **: The main Python program that implements the phone book management system.
-- ** contacts.csv **: The CSV file used to store contact information.
-- ** README.md **: This file, containing project documentation.
+- **PhoneBook.py**: The main Python program that implements the phone book management system.
+- **contacts.csv**: The CSV file used to store contact information.
+- **README.md**: This file, containing project documentation.
 
 
 ## Contributing
