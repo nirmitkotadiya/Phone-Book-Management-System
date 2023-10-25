@@ -21,15 +21,15 @@ Description: This README.md file provides an overview of the Phone Book Manageme
 ## Installation
 1. **Clone the repository**:
 git clone https://github.com/nirmitkotadiya/phone-book-management.git
-<br>
+
 cd phone-book-management
 
 3. **Create a virtual environment (optional but recommended)**:
 python -m venv venv
-<br>
+
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 
-4. **Install required packages**:
+5. **Install required packages**:
 pip install -r requirements.txt
 
 
