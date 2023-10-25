@@ -19,8 +19,8 @@ Description: This README.md file provides an overview of the Phone Book Manageme
 
 
 ## Installation
-
-1. ** Clone the repository **:
+1.
+** Clone the repository **:
 <br>
 git clone https://github.com/nirmitkotadiya/phone-book-management.git
 cd phone-book-management
